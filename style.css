@@ -32,3 +32,16 @@ body {
     width: 100%;
     margin: 5px 0;
 }
+
+.h1c {
+    font-size: 1.5em;
+    /* Adjust font size to be smaller */
+    text-align: center;
+    /* Align text to center, if needed */
+    margin: 0;
+    /* Adjust margin if needed to align with other elements */
+}
+
+.p-color {
+    color: #86d73d;
+}
